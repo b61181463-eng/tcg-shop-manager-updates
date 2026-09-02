@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "version": "5.2.0",
+  "version": "5.2.1",
   "channel": "stable",
   "severity": "recommended",
-  "notes": "v5.2.0 signed automatic update",
-  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.2.0.zip",
-  "sha256": "fcf84548b5d3749e771fd7ea09c47889baef540f9bdbcbc0e930d04db02b6354",
+  "notes": "v5.2.1 Fast Update Hotfix",
+  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.2.1.zip",
+  "sha256": "4eec09d07243bf4a071a6f32a1e6db1901097effa513a72c659ddc2c65bded4c",
   "rollout": 100,
-  "published_at": "2026-09-02T12:25:17+00:00",
+  "published_at": "2026-09-02T12:57:49+00:00",
   "signed": {
     "format": 1,
     "product": "tcg-shop-manager",
-    "version": "5.2.0",
+    "version": "5.2.1",
     "channel": "stable",
     "severity": "recommended",
-    "notes": "v5.2.0 signed automatic update",
-    "package_filename": "TCG_Shop_Manager_Update_v5.2.0.zip",
-    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.2.0.zip",
-    "sha256": "fcf84548b5d3749e771fd7ea09c47889baef540f9bdbcbc0e930d04db02b6354",
+    "notes": "v5.2.1 Fast Update Hotfix",
+    "package_filename": "TCG_Shop_Manager_Update_v5.2.1.zip",
+    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.2.1.zip",
+    "sha256": "4eec09d07243bf4a071a6f32a1e6db1901097effa513a72c659ddc2c65bded4c",
     "rollout": 100,
-    "published_at": "2026-09-02T12:25:17+00:00"
+    "published_at": "2026-09-02T12:57:49+00:00"
   },
-  "signature": "PvzuNrdU3ezEBF5mBwQhYPXiHPeSHjJ66SJ2g8JIDAshlgcZ3fP1KF3vELwWl9MGt6ov6zFUPiNB1heHZt8GDg",
+  "signature": "5MSpwfItbHx1wTS68ZMJmSXzQhgydlVdWDDNMwJhWWSkPJInz0CuQ2vWqfK2pf7GDPkFJGAeOEnLVXOxwgavDw",
   "signature_alg": "Ed25519"
 }
