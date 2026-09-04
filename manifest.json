@@ -3,24 +3,24 @@
   "version": "5.4.0",
   "channel": "stable",
   "severity": "recommended",
-  "notes": "v5.4.0 Visual Identity Refresh — Card Vault / Collector Terminal UI",
+  "notes": "v5.4.0 Visual Identity Refresh + Windows updater folder-lock hotfix",
   "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.4.0.zip",
-  "sha256": "01754d3a3d5c9d46d25b587abfd8aeefee0818f07ded3df0a101bdf8a785c6b9",
+  "sha256": "9ee9314de573f5f909f87e608dab7f18d784db8c530eefd14559d22c7a27acb6",
   "rollout": 100,
-  "published_at": "2026-09-04T03:05:55+00:00",
+  "published_at": "2026-09-04T03:10:58+00:00",
   "signed": {
     "format": 1,
     "product": "tcg-shop-manager",
     "version": "5.4.0",
     "channel": "stable",
     "severity": "recommended",
-    "notes": "v5.4.0 Visual Identity Refresh — Card Vault / Collector Terminal UI",
+    "notes": "v5.4.0 Visual Identity Refresh + Windows updater folder-lock hotfix",
     "package_filename": "TCG_Shop_Manager_Update_v5.4.0.zip",
     "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.4.0.zip",
-    "sha256": "01754d3a3d5c9d46d25b587abfd8aeefee0818f07ded3df0a101bdf8a785c6b9",
+    "sha256": "9ee9314de573f5f909f87e608dab7f18d784db8c530eefd14559d22c7a27acb6",
     "rollout": 100,
-    "published_at": "2026-09-04T03:05:55+00:00"
+    "published_at": "2026-09-04T03:10:58+00:00"
   },
-  "signature": "9yyjIpBBlfsRa9KfW1i7oywcABb2k7MSnd6URNnsZIzeysrj3pilPysSEHChNzosCAqHZ523lFGpKvorRWwaCg",
+  "signature": "ZHnz8Rg0dsBsQASTsrhlARvHptD4N8VRpixSqIG5YSLuSkK7_lJtuEMGqMANswLNgqt8uSE6iVqzfSTcXli8DA",
   "signature_alg": "Ed25519"
 }
