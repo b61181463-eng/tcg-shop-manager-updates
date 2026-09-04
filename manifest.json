@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "version": "5.5.1",
+  "version": "5.5.2",
   "channel": "stable",
   "severity": "recommended",
-  "notes": "v5.5.1 Collector Workshop — Card Lab 2-column layout, pricing under preview, scroll-position retention, grounded palette",
-  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.1.zip",
-  "sha256": "fb190156c36f45a78bb44274a2586b8ed7e6fbb4a61546ba38a5dbdb81c1fc4c",
+  "notes": "v5.5.2 Premium TCG Desk — pricing layout fix, Windows app identity/icon hook, refined premium palette",
+  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.2.zip",
+  "sha256": "e93b164c767b025226e5815d3bca34de9d129bc24bd223da6b007d0225ed6edd",
   "rollout": 100,
-  "published_at": "2026-09-04T09:12:17+00:00",
+  "published_at": "2026-09-04T09:28:21+00:00",
   "signed": {
     "format": 1,
     "product": "tcg-shop-manager",
-    "version": "5.5.1",
+    "version": "5.5.2",
     "channel": "stable",
     "severity": "recommended",
-    "notes": "v5.5.1 Collector Workshop — Card Lab 2-column layout, pricing under preview, scroll-position retention, grounded palette",
-    "package_filename": "TCG_Shop_Manager_Update_v5.5.1.zip",
-    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.1.zip",
-    "sha256": "fb190156c36f45a78bb44274a2586b8ed7e6fbb4a61546ba38a5dbdb81c1fc4c",
+    "notes": "v5.5.2 Premium TCG Desk — pricing layout fix, Windows app identity/icon hook, refined premium palette",
+    "package_filename": "TCG_Shop_Manager_Update_v5.5.2.zip",
+    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.2.zip",
+    "sha256": "e93b164c767b025226e5815d3bca34de9d129bc24bd223da6b007d0225ed6edd",
     "rollout": 100,
-    "published_at": "2026-09-04T09:12:17+00:00"
+    "published_at": "2026-09-04T09:28:21+00:00"
   },
-  "signature": "0Eg0wzc5W8okqwEFqdxyMuRgE47TjH8LY447ZVTLA36M_Jkot1DFzxmmkPzq_FO3kFsSpaLjeAA-bx0Hak16Dw",
+  "signature": "de-UTlkR9xCnBtqI6OUWErUF4A1dN-8lTOc5kz0pl-I6L_6eXPlYLM0DsJFrzEyeUL3SCQycz9z6lg229dZiDA",
   "signature_alg": "Ed25519"
 }
