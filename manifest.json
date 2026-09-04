@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "version": "5.4.3",
+  "version": "5.5.0",
   "channel": "stable",
   "severity": "recommended",
-  "notes": "v5.4.3 Typography Pass — improved readability across Vault Desk, Card Lab, Vault Gate and navigation",
-  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.4.3.zip",
-  "sha256": "ca598d52271039958b57f41fce34729c79ef04a6e23733e6991a357772064964",
+  "notes": "v5.5.0 Desktop App Shell — native WebView2 window without browser chrome, single-instance shell, desktop update lifecycle",
+  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.0.zip",
+  "sha256": "6e9e66ded821b3bc6646c511cfdccfeb897eff6bf96586432171947640c3c530",
   "rollout": 100,
-  "published_at": "2026-09-04T04:25:41+00:00",
+  "published_at": "2026-09-04T04:36:06+00:00",
   "signed": {
     "format": 1,
     "product": "tcg-shop-manager",
-    "version": "5.4.3",
+    "version": "5.5.0",
     "channel": "stable",
     "severity": "recommended",
-    "notes": "v5.4.3 Typography Pass — improved readability across Vault Desk, Card Lab, Vault Gate and navigation",
-    "package_filename": "TCG_Shop_Manager_Update_v5.4.3.zip",
-    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.4.3.zip",
-    "sha256": "ca598d52271039958b57f41fce34729c79ef04a6e23733e6991a357772064964",
+    "notes": "v5.5.0 Desktop App Shell — native WebView2 window without browser chrome, single-instance shell, desktop update lifecycle",
+    "package_filename": "TCG_Shop_Manager_Update_v5.5.0.zip",
+    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.0.zip",
+    "sha256": "6e9e66ded821b3bc6646c511cfdccfeb897eff6bf96586432171947640c3c530",
     "rollout": 100,
-    "published_at": "2026-09-04T04:25:41+00:00"
+    "published_at": "2026-09-04T04:36:06+00:00"
   },
-  "signature": "dsMeMHtj1mtl7qNMjrHW2FE_zjOdrpoXLnlTHynlyhbn8Py2CmaQq6L-znTK1mmcf7uSJbLkGZ7ZPsWjjz8BCg",
+  "signature": "UWBsH4R7wIJ-3rhIOiNpLTPNiiZrNrgUOhWe_cyvud0-oukADEBQorSmJuUi-hNpiVA0xAKE1iirj-cX0JJhCQ",
   "signature_alg": "Ed25519"
 }
