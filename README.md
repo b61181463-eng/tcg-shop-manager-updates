@@ -1,9 +1,9 @@
 # TCG Shop Manager Updates
 
-Current stable release: **v5.5.0**
+Current stable release: **v5.5.1**
 
-Package: `https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.0.zip`
+Package: `https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.1.zip`
 
-SHA-256: `6e9e66ded821b3bc6646c511cfdccfeb897eff6bf96586432171947640c3c530`
+SHA-256: `fb190156c36f45a78bb44274a2586b8ed7e6fbb4a61546ba38a5dbdb81c1fc4c`
 
 Public distribution files only. Private signing/license keys are never included.
