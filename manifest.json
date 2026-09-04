@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "version": "5.5.5",
+  "version": "5.6.0",
   "channel": "stable",
   "severity": "recommended",
-  "notes": "v5.5.5 Gallery Navy + Native Icon Fix — dashboard click fix, refined Vault palette, x64-safe Win32 icon handles",
-  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.5.zip",
-  "sha256": "40e8cf3f0e5480d3ace5aa645e1bb40055001b3370dd145cfa11a514f12fba9e",
+  "notes": "v5.6.0 Native Host — native Windows top-level host owns taskbar identity and embeds WebView2 child",
+  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.6.0.zip",
+  "sha256": "92492cd5bbe0864c6aadf6a78f076348023715756ea8cb8e073a54c8c58ab2b5",
   "rollout": 100,
-  "published_at": "2026-09-04T09:52:20+00:00",
+  "published_at": "2026-09-04T10:03:54+00:00",
   "signed": {
     "format": 1,
     "product": "tcg-shop-manager",
-    "version": "5.5.5",
+    "version": "5.6.0",
     "channel": "stable",
     "severity": "recommended",
-    "notes": "v5.5.5 Gallery Navy + Native Icon Fix — dashboard click fix, refined Vault palette, x64-safe Win32 icon handles",
-    "package_filename": "TCG_Shop_Manager_Update_v5.5.5.zip",
-    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.5.zip",
-    "sha256": "40e8cf3f0e5480d3ace5aa645e1bb40055001b3370dd145cfa11a514f12fba9e",
+    "notes": "v5.6.0 Native Host — native Windows top-level host owns taskbar identity and embeds WebView2 child",
+    "package_filename": "TCG_Shop_Manager_Update_v5.6.0.zip",
+    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.6.0.zip",
+    "sha256": "92492cd5bbe0864c6aadf6a78f076348023715756ea8cb8e073a54c8c58ab2b5",
     "rollout": 100,
-    "published_at": "2026-09-04T09:52:20+00:00"
+    "published_at": "2026-09-04T10:03:54+00:00"
   },
-  "signature": "q5SqwtjtVrDPcBtI0Qd_m0pwBktIZhmNn5935ckJJwwMQB9cdNmdN8oJz9CFl6ItqNwrz46Hwu651Nrw4PEqDQ",
+  "signature": "nDdl39gntgguYjjwrvDwfwPJCuE5y6pb7_5ro2sfuF9Sf7DwTNAa_59-QlJ4kWWzOzlD9ZuGCSYIxIZhcFmFBw",
   "signature_alg": "Ed25519"
 }
