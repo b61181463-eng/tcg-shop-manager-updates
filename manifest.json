@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "version": "5.3.0",
+  "version": "5.4.0",
   "channel": "stable",
   "severity": "recommended",
-  "notes": "v5.3.0 Commercial RC",
-  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.3.0.zip",
-  "sha256": "786eecd93b7bad082030d22239b249c26f47d04c3676af8c81643a8dd976a88c",
+  "notes": "v5.4.0 Visual Identity Refresh — Card Vault / Collector Terminal UI",
+  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.4.0.zip",
+  "sha256": "01754d3a3d5c9d46d25b587abfd8aeefee0818f07ded3df0a101bdf8a785c6b9",
   "rollout": 100,
-  "published_at": "2026-09-02T23:27:56+00:00",
+  "published_at": "2026-09-04T03:05:55+00:00",
   "signed": {
     "format": 1,
     "product": "tcg-shop-manager",
-    "version": "5.3.0",
+    "version": "5.4.0",
     "channel": "stable",
     "severity": "recommended",
-    "notes": "v5.3.0 Commercial RC",
-    "package_filename": "TCG_Shop_Manager_Update_v5.3.0.zip",
-    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.3.0.zip",
-    "sha256": "786eecd93b7bad082030d22239b249c26f47d04c3676af8c81643a8dd976a88c",
+    "notes": "v5.4.0 Visual Identity Refresh — Card Vault / Collector Terminal UI",
+    "package_filename": "TCG_Shop_Manager_Update_v5.4.0.zip",
+    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.4.0.zip",
+    "sha256": "01754d3a3d5c9d46d25b587abfd8aeefee0818f07ded3df0a101bdf8a785c6b9",
     "rollout": 100,
-    "published_at": "2026-09-02T23:27:56+00:00"
+    "published_at": "2026-09-04T03:05:55+00:00"
   },
-  "signature": "GMZI3C3xwhB_YkJqbFG8Uw5gSn5ITawgXSjxbEs0gEyF-4QhZYMzClMwXfX_lqwPvE8unKR6P-2_PU2Wc-q8Cg",
+  "signature": "9yyjIpBBlfsRa9KfW1i7oywcABb2k7MSnd6URNnsZIzeysrj3pilPysSEHChNzosCAqHZ523lFGpKvorRWwaCg",
   "signature_alg": "Ed25519"
 }
