@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "version": "5.5.2",
+  "version": "5.5.3",
   "channel": "stable",
   "severity": "recommended",
-  "notes": "v5.5.2 Premium TCG Desk — pricing layout fix, Windows app identity/icon hook, refined premium palette",
-  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.2.zip",
-  "sha256": "e93b164c767b025226e5815d3bca34de9d129bc24bd223da6b007d0225ed6edd",
+  "notes": "v5.5.3 UI Polish + Native Icon — clipping fix, flat retail palette, sidebar scroll persistence, Win32 taskbar icon injection",
+  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.3.zip",
+  "sha256": "c08b92180bfd0fbcf5caab2571c9612e70cd7559143b6d482faeefab472697c3",
   "rollout": 100,
-  "published_at": "2026-09-04T09:28:21+00:00",
+  "published_at": "2026-09-04T09:35:29+00:00",
   "signed": {
     "format": 1,
     "product": "tcg-shop-manager",
-    "version": "5.5.2",
+    "version": "5.5.3",
     "channel": "stable",
     "severity": "recommended",
-    "notes": "v5.5.2 Premium TCG Desk — pricing layout fix, Windows app identity/icon hook, refined premium palette",
-    "package_filename": "TCG_Shop_Manager_Update_v5.5.2.zip",
-    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.2.zip",
-    "sha256": "e93b164c767b025226e5815d3bca34de9d129bc24bd223da6b007d0225ed6edd",
+    "notes": "v5.5.3 UI Polish + Native Icon — clipping fix, flat retail palette, sidebar scroll persistence, Win32 taskbar icon injection",
+    "package_filename": "TCG_Shop_Manager_Update_v5.5.3.zip",
+    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.5.3.zip",
+    "sha256": "c08b92180bfd0fbcf5caab2571c9612e70cd7559143b6d482faeefab472697c3",
     "rollout": 100,
-    "published_at": "2026-09-04T09:28:21+00:00"
+    "published_at": "2026-09-04T09:35:29+00:00"
   },
-  "signature": "de-UTlkR9xCnBtqI6OUWErUF4A1dN-8lTOc5kz0pl-I6L_6eXPlYLM0DsJFrzEyeUL3SCQycz9z6lg229dZiDA",
+  "signature": "A2sQWCwpkRaedFRKvilqJ-VwvT8jv9H5QVQz4TSsjfo6bIhD4BZ9lXjUPLR0-xBDIbJZIRygceL5to4TkGW8Cw",
   "signature_alg": "Ed25519"
 }
