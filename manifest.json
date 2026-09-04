@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "version": "5.4.0",
+  "version": "5.4.1",
   "channel": "stable",
   "severity": "recommended",
-  "notes": "v5.4.0 Visual Identity Refresh + Windows updater folder-lock hotfix",
-  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.4.0.zip",
-  "sha256": "9ee9314de573f5f909f87e608dab7f18d784db8c530eefd14559d22c7a27acb6",
+  "notes": "v5.4.1 Structural UI — asymmetric Operations Cockpit, Bento dashboard, Vault Gate login, static cache-busting",
+  "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.4.1.zip",
+  "sha256": "dc946223604b6178eadf4c8d0a0746067be7ee65842e22642d0909f6e6e9035a",
   "rollout": 100,
-  "published_at": "2026-09-04T03:10:58+00:00",
+  "published_at": "2026-09-04T03:55:19+00:00",
   "signed": {
     "format": 1,
     "product": "tcg-shop-manager",
-    "version": "5.4.0",
+    "version": "5.4.1",
     "channel": "stable",
     "severity": "recommended",
-    "notes": "v5.4.0 Visual Identity Refresh + Windows updater folder-lock hotfix",
-    "package_filename": "TCG_Shop_Manager_Update_v5.4.0.zip",
-    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.4.0.zip",
-    "sha256": "9ee9314de573f5f909f87e608dab7f18d784db8c530eefd14559d22c7a27acb6",
+    "notes": "v5.4.1 Structural UI — asymmetric Operations Cockpit, Bento dashboard, Vault Gate login, static cache-busting",
+    "package_filename": "TCG_Shop_Manager_Update_v5.4.1.zip",
+    "package_url": "https://raw.githubusercontent.com/b61181463-eng/tcg-shop-manager-updates/main/TCG_Shop_Manager_Update_v5.4.1.zip",
+    "sha256": "dc946223604b6178eadf4c8d0a0746067be7ee65842e22642d0909f6e6e9035a",
     "rollout": 100,
-    "published_at": "2026-09-04T03:10:58+00:00"
+    "published_at": "2026-09-04T03:55:19+00:00"
   },
-  "signature": "ZHnz8Rg0dsBsQASTsrhlARvHptD4N8VRpixSqIG5YSLuSkK7_lJtuEMGqMANswLNgqt8uSE6iVqzfSTcXli8DA",
+  "signature": "RukMsWagrciBxc-ye3s_ZxJNdnL_rTuAkodOCyc7D2oIJJRnPTPpnaQ85l_Mb4LmkULq7lQgEtu_fyqtjvh6DA",
   "signature_alg": "Ed25519"
 }
